@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bockkwurst
 - 👀 I’m interested in Music, Coding and Movies
-- 🌱 I’m currently learning Java and React JS
+- 🌱 I’m currently learning CSharp and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord -> Bockkwurst
 - 😄 Pronouns: He/Him
