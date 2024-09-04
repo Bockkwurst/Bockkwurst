@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord -> Bockkwurst
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: *Insert a funfact of your choice here*
+- ⚡ Fun fact: The Star Wars Adult Parodies have better IMDB Scoring than The Acolyte
 
 <!---
 Bockkwurst/Bockkwurst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
